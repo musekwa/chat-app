@@ -1,3 +1,4 @@
+<img width="779" alt="chat-app" src="https://user-images.githubusercontent.com/19254270/132104803-3347bf9b-33b6-4640-bff8-09fa497a7708.png">
 # chat-app
 
 ## Description:
