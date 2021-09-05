@@ -9,5 +9,9 @@ This chat-app was developed using React and Socket.io
 - Other user can join my chat room by type their name and the same room name I had created;
 - Chat room participants can exchange messages and use emojies in their messages.
 
+## Try it out
+You can access this chat-app at https://chat-app-10.netlify.app/ 
+
+
 
 
